@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "FirstNumberSecond",
+            "request": "launch",
+            "mainClass": "JavaProjects.FirstNumberSecond",
+            "projectName": "JavaSpringAWS_3cf53152"
+        },
+        {
+            "type": "java",
             "name": "ExercicioPeso",
             "request": "launch",
             "mainClass": "JavaProjects.ExercicioPeso",
