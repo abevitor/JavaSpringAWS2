@@ -22,7 +22,8 @@ public class ExercicioTabuada {
 
         }
        
-        
+        scanner.close();
     }
+    
     
 }

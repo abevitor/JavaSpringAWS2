@@ -24,6 +24,8 @@ public class EstruturaDoWhile {
             System.out.println(name);
         } while (!name.equalsIgnoreCase("exit"));
         
+        scanner.close();
+        
     }
 
 

@@ -14,6 +14,8 @@ public class ExercicioPeso {
 
         var imc = (peso/(alt * alt));
 
+        scanner.close();
+
         if(imc <= 18.5) {
             System.out.println("Abaixo do peso!");
             return;
@@ -39,10 +41,16 @@ public class ExercicioPeso {
             System.out.println("Obesidade Grau II(Severa)!");
             return;
         }
+        
         if(imc > 40) {
             System.out.println("Obesidade Grau III(Mórbida)!");
             return;
+            
         }
+
+
+        
+        
         
     }
 
