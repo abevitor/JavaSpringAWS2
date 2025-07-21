@@ -1,0 +1,120 @@
+{
+    // Use o IntelliSense para saber mais sobre os atributos possíveis.
+    // Focalizar para exibir as descrições dos atributos existentes.
+    // Para obter mais informações, acesse: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "ExercicioPeso",
+            "request": "launch",
+            "mainClass": "JavaProjects.ExercicioPeso",
+            "projectName": "JavaSpringAWS_3cf53152"
+        },
+        {
+            "type": "java",
+            "name": "ExercicioTabuada",
+            "request": "launch",
+            "mainClass": "JavaProjects.ExercicioTabuada",
+            "projectName": "JavaSpringAWS_3cf53152"
+        },
+        {
+            "type": "java",
+            "name": "ExercicioDiferencaIdade",
+            "request": "launch",
+            "mainClass": "JavaProjects.ExercicioDiferencaIdade",
+            "projectName": "JavaSpringAWS_3cf53152"
+        },
+        {
+            "type": "java",
+            "name": "EstruturaDoWhile",
+            "request": "launch",
+            "mainClass": "JavaProjects.EstruturaDoWhile",
+            "projectName": "JavaSpringAWS_3cf53152"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "AreaQuadrado",
+            "request": "launch",
+            "mainClass": "JavaProjects.AreaQuadrado",
+            "projectName": "JavaSpringAWS_3cf53152"
+        },
+        {
+            "type": "java",
+            "name": "AreaRetangulo",
+            "request": "launch",
+            "mainClass": "JavaProjects.AreaRetangulo",
+            "projectName": "JavaSpringAWS_3cf53152"
+        },
+        {
+            "type": "java",
+            "name": "Calculadora",
+            "request": "launch",
+            "mainClass": "JavaProjects.Calculadora",
+            "projectName": "JavaSpringAWS_3cf53152"
+        },
+        {
+            "type": "java",
+            "name": "EstruturaFor",
+            "request": "launch",
+            "mainClass": "JavaProjects.EstruturaFor",
+            "projectName": "JavaSpringAWS_3cf53152",
+            "args": "banana maça calabresa mitocondrias"
+        },
+        {
+            "type": "java",
+            "name": "ExercicioIdade",
+            "request": "launch",
+            "mainClass": "JavaProjects.ExercicioIdade",
+            "projectName": "JavaSpringAWS_3cf53152"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "JavaProjects.Main",
+            "projectName": "JavaSpringAWS_3cf53152"
+        },
+        {
+            "type": "java",
+            "name": "MyClass",
+            "request": "launch",
+            "mainClass": "JavaProjects.MyClass",
+            "projectName": "JavaSpringAWS_3cf53152"
+        },
+        {
+            "type": "java",
+            "name": "OperadoresBinarios",
+            "request": "launch",
+            "mainClass": "JavaProjects.OperadoresBinarios",
+            "projectName": "JavaSpringAWS_3cf53152"
+        },
+        {
+            "type": "java",
+            "name": "OrAnd",
+            "request": "launch",
+            "mainClass": "JavaProjects.OrAnd",
+            "projectName": "JavaSpringAWS_3cf53152"
+        },
+        {
+            "type": "java",
+            "name": "SwitchCaseEx",
+            "request": "launch",
+            "mainClass": "JavaProjects.SwitchCaseEx",
+            "projectName": "JavaSpringAWS_3cf53152"
+        },
+        {
+            "type": "java",
+            "name": "VerificadorOu",
+            "request": "launch",
+            "mainClass": "JavaProjects.VerificadorOu",
+            "projectName": "JavaSpringAWS_3cf53152"
+        }
+    ]
+}
