@@ -8,6 +8,13 @@
             "type": "java",
             "name": "Main",
             "request": "launch",
+            "mainClass": "POO.Exercicio2.Main",
+            "projectName": "JavaSpringAWS_3cf53152"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
             "mainClass": "POO.Exercicio1.Main",
             "projectName": "JavaSpringAWS_3cf53152"
         },
