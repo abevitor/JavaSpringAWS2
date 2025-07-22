@@ -64,8 +64,10 @@ while (true) {
             System.out.println("Opção inválida. Tente novamente.");
     }
 
-   
+      scanner.close();
 }
+
+   
 
     }
     

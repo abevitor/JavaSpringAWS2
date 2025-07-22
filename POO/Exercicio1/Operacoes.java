@@ -9,7 +9,6 @@ public class Operacoes {
     private String senha;
     private double chequeEspecial;
     private double saldo;
-    private double saldoTotal;
 
     public String getEmail() {
         return email;
