@@ -1,7 +1,6 @@
 package POO.Exercicio2Corrijido;
 
 
-
 public class Carro {
     private boolean ligado = false;
     private int velocidade = 0;
